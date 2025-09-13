@@ -2,7 +2,7 @@
 
 # Raft storage is built-in
 storage "raft" {
-  path    = "/mnt/c/Gits/learn-vault-series/02/node2-data"
+  path    = "./node2-data"
   node_id = "node2"
 
   // Tell this node how to find the first node to join the cluster

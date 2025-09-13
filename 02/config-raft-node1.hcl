@@ -2,7 +2,7 @@
 
 # Raft storage is built-in
 storage "raft" {
-  path    = "/mnt/c/Gits/learn-vault-series/02/node1-data"
+  path    = "./node1-data"
   node_id = "node1"
 }
 
