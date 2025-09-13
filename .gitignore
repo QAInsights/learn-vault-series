@@ -1,1 +1,8 @@
 vault-data/
+02/token
+02/node1-data/vault.db
+02/node1-data/raft/raft.db
+02/node2-data/vault.db
+02/node2-data/raft/raft.db
+02/node3-data/vault.db
+02/node3-data/raft/raft.db
