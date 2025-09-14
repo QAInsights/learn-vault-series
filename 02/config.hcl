@@ -1,6 +1,6 @@
 # Store the Vault data in a file on the local filesystem.
 storage "file" {
-  path = "./gits/learn-vault-series/vault-data"
+  path = "/Users/naveenkumar/vault/data000"
 }
 
 # Listen for connections on localhost port 8200.
