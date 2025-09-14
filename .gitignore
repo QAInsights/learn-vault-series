@@ -1,3 +1,4 @@
 vault-data/
 *.db
 token
+.DS_Store
