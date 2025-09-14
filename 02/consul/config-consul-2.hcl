@@ -10,4 +10,4 @@ listener "tcp" {
 }
 
 api_addr = "http://127.0.0.1:8202"
-ui       = true
+ui = true
