@@ -1,4 +1,3 @@
-
 # config-raft.hcl
 
 # Raft storage is built-in
