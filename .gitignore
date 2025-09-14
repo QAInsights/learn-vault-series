@@ -6,3 +6,5 @@ vault-data/
 02/node2-data/raft/raft.db
 02/node3-data/vault.db
 02/node3-data/raft/raft.db
+.DS_Store
+02/tokens
