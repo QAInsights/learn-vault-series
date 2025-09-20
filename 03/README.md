@@ -1,6 +1,7 @@
 # Auth and Secrets Engine
 
 > The default auth method, which is `token`, cannot be disabled.
+
 > The default secrets engines, `identity`, `sys`, and `cubbyhole`, cannot be disabled.
 
 ```
